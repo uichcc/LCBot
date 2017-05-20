@@ -5,48 +5,6 @@
 ![](https://postimg.aliavv.com/mbp/b69eb.png)
 
 LCBot 是一个为 Linux 中国服务的微信机器人，主要为 Linux 中国下的微信群做管理、维护等工作。
-
-##  演示
-![linux_cn](https://ooo.0o0.ooo/2017/04/28/5903576f5d014.jpeg)
-
-扫描二维码或搜索微信号`linux_cn`，回复关键词 `机器人` ，即可拉入本项目微信讨论群
-
-## 特性
-
-1. 关键词添加好友自动拉群
-2. 私聊发送关键词自动加群
-3. 新用户进群自动发送欢迎
-4. 设定管理员，管理员可以通过发送命令T人（需要机器人是群主）
-
-## 需要
-- Python 3
-
-## 安装
-执行命令
-```
-pip3 install -U wxpy
-```
-## 使用
-执行命令
-```
-python3 bot.py
-```
-## FAQ
-查看 [FAQ](https://github.com/bestony/LCBot/wiki/FAQ)
-## Todo
-
-查看 [Todo](TODO.md)
-
-## 贡献指南
-
-查看 [CONTRIBUTING](CONTRIBUTING.md)
-
-## LICENSE
-
-代码基于 [MIT](LICENSE) 协议开源
-
-文档以 [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 协议分享
-
-## 致谢
-
+具体内容请前往原始Repo
+- [LCBot](https://github.com/LCTT/LCBot) : LCBot Linux中国微信机器人
 - [wxpy](https://github.com/youfou/wxpy) : 微信机器人 / 优雅而强大的微信个人号 API
