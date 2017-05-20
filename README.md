@@ -1,4 +1,4 @@
-# LCBot Linux中国微信机器人
+# LCBot Linux中国微信机器人(UICHCC 定制版)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/bestony/LCBot/blob/master/LICENSE) ![](https://img.shields.io/badge/Language-Python-blue.svg) ![](https://img.shields.io/badge/Python-3.X-red.svg)
 
